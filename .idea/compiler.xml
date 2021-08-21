@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="loja" />
         <module name="config-server" />
+        <module name="fornecedor" />
         <module name="eureka-server" />
       </profile>
     </annotationProcessing>
