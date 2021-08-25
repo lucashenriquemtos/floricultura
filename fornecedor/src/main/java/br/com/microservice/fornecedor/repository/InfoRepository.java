@@ -1,4 +1,4 @@
-package br.com.microservice.fornecedor.service;
+package br.com.microservice.fornecedor.repository;
 
 import br.com.microservice.fornecedor.model.InfoFornecedor;
 import org.springframework.data.repository.CrudRepository;
